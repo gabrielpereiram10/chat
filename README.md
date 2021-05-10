@@ -1,6 +1,3 @@
-# chat
-Projeto guiado pela NLW #05
-
 # Support Chat
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/gabrielpereiram10/chat/blob/main/LICENSE)
